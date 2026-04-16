@@ -8,12 +8,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "REMPLACE_PAR_TON_API_KEY",
-  authDomain: "REMPLACE_PAR_TON_AUTH_DOMAIN",
-  projectId: "REMPLACE_PAR_TON_PROJECT_ID",
-  storageBucket: "REMPLACE_PAR_TON_STORAGE_BUCKET",
-  messagingSenderId: "REMPLACE_PAR_TON_MESSAGING_SENDER_ID",
-  appId: "REMPLACE_PAR_TON_APP_ID"
+  apiKey: "AIzaSyCqbtLJDg0K2J3-mUrNo_HJ3G3J9cNUspc",
+  authDomain: "elina-marius-wedding.firebaseapp.com",
+  projectId: "elina-marius-wedding",
+  storageBucket: "elina-marius-wedding.firebasestorage.app",
+  messagingSenderId: "525858973056",
+  appId: "1:525858973056:web:ff00d4d8faccfecececd65"
 };
 
 const app = initializeApp(firebaseConfig);
